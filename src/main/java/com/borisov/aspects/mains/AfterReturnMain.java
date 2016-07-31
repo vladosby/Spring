@@ -1,5 +1,6 @@
-package com.borisov.aspects;
+package com.borisov.aspects.mains;
 
+import com.borisov.aspects.configs.AfterReturnJavaConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**

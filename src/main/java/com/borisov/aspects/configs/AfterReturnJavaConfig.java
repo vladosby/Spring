@@ -1,4 +1,4 @@
-package com.borisov.aspects;
+package com.borisov.aspects.configs;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
